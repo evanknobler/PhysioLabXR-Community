@@ -14,10 +14,14 @@ setuptools
 psutil
 numba
 PyOpenGL
-PyOpenGL_accelerate
+# PyOpenGL_accelerate
 soundfile
 matplotlib
 imblearn
 toml
 grpcio
 grpcio-tools
+pandas
+nltk
+dtw-python
+openpyxl
